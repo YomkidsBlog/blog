@@ -1,2 +1,5 @@
-# blog
-Blog is the official web portal for Yomkidsblog where every thoughts about Science and Engineering tutorials is been shared.
+# Testing Environment
+Welcome D-One, this is a testing environmnent, work is going underground once we start making changes it will appear hear as soon as possible
+You will be seeing the progress of the work here once it pushed here.
+
+So no cause for alarm at all.
