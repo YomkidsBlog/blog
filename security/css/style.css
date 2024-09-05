@@ -543,7 +543,7 @@ a:focus {
 }
 
 .client_section .box .img-box {
-  width: 100px;
+  width: 100%;
 }
 
 .client_section .box .img-box img {
