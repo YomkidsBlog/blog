@@ -542,13 +542,23 @@ a:focus {
   margin-top: 45px;
 }
 
-.client_section .box .img-box {
-  width: 100%;
+/* .client_section .box .img-box {
+  width: inherit;
 }
 
 .client_section .box .img-box img {
-  width: 100%;
+  width: inherit;
   height: 50px;
+  object-fit: cover;
+} */
+.box .img-box {
+  width: 100%;
+  height: 200px;
+}
+
+.box .img-box img {
+  width: inherit;
+  height: inherit;
   object-fit: cover;
 }
 
