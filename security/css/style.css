@@ -543,11 +543,12 @@ a:focus {
 }
 
 .client_section .box .img-box {
-  width: 145px;
+  width: 100px;
 }
 
 .client_section .box .img-box img {
   width: 100%;
+  object-fit: cover;
 }
 
 .client_section .box .detail-box {
